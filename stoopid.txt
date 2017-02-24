@@ -1,0 +1,39 @@
+Partlist
+
+Exported from wemos-br1-board.brd at 2/6/2017 10:28 PM
+
+EAGLE Version 7.7.0 Copyright (c) 1988-2016 CadSoft
+
+Assembly variant: 
+
+Part     Value                  Package     Library             Position (inch)       Orientation
+
+3V3      WEMOS                  WEMOS       1455413453956-wemos (0.6 2.775)           MR180
+D1       WS2812B                LED_WS2812B WS2812B             (1.7 2.725)           R180
+D2       WS2812B                LED_WS2812B WS2812B             (2 2.725)             R180
+D3       WS2812B                LED_WS2812B WS2812B             (2.3 2.725)           R180
+D4       WS2812B                LED_WS2812B WS2812B             (1.7 2.45)            R180
+D5       WS2812B                LED_WS2812B WS2812B             (2 2.45)              R180
+D6       WS2812B                LED_WS2812B WS2812B             (2.3 2.45)            R180
+D7       WS2812B                LED_WS2812B WS2812B             (1.7 2.15)            R180
+D8       WS2812B                LED_WS2812B WS2812B             (2 2.15)              R180
+D9       WS2812B                LED_WS2812B WS2812B             (2.3 2.15)            R180
+J1       2p-2.54                H5-2.54     Seeed-OPL-Connector (1.05 2.75)           R90
+J2       3p-2.54                H3-2.54     Seeed-OPL-Connector (1.25 2.15)           R270
+R1       4.7K                   R0805       eagle-ltspice       (1.05 2.6)            R90
+R2       4.7K                   R0805       eagle-ltspice       (1.15 2.6)            R270
+R3       10k                    R0805       eagle-ltspice       (0.4 2.175)           R0
+R4       10k                    R0805       eagle-ltspice       (0.4 2.3)             R0
+R5       10k                    R0805       eagle-ltspice       (2.1 1.925)           R0
+R6       10k                    R0805       eagle-ltspice       (2.3 1.925)           R180
+R7       500k                   R0805       eagle-ltspice       (0.4 2.475)           R180
+R8       10k                    R0805       eagle-ltspice       (0.95 2.6)            R270
+R9       10k                    R0805       eagle-ltspice       (1.25 2.6)            R90
+S1       B3F-1000               SW_B3F-1000 B3F-1000            (0.85 2.2)            R0
+S2       B3F-1000               SW_B3F-1000 B3F-1000            (0.85 1.5)            R0
+S3       B3F-1000               SW_B3F-1000 B3F-1000            (0.45 1.85)           R0
+S4       B3F-1000               SW_B3F-1000 B3F-1000            (1.25 1.85)           R0
+S5       B3F-1000               SW_B3F-1000 B3F-1000            (1.8 1.55)            R0
+S6       B3F-1000               SW_B3F-1000 B3F-1000            (2.25 1.55)           R0
+U$1      BSS138                 BSS138      BSS138              (1.2 2.35)            R0
+U1       PHOTORESISTOR-5528-10K SNR2-3.0    Seeed-OPL-sensor    (0.4 2.7)             R90

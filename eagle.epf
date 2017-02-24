@@ -19,7 +19,10 @@ UsedLibrary="C:/Progs/EAGLE-7.7.0/lbr/74xx-little-de.lbr"
 UsedLibrary="C:/Progs/EAGLE-7.7.0/lbr/74xx-little-us.lbr"
 UsedLibrary="C:/Progs/EAGLE-7.7.0/lbr/74xx-us.lbr"
 UsedLibrary="C:/Progs/EAGLE-7.7.0/lbr/751xx.lbr"
+UsedLibrary="C:/Progs/EAGLE-7.7.0/lbr/BSS138.lbr"
 UsedLibrary="C:/Progs/EAGLE-7.7.0/lbr/IQD-Frequency-Products.lbr"
+UsedLibrary="C:/Progs/EAGLE-7.7.0/lbr/MCP9700T-E_TT.lbr"
+UsedLibrary="C:/Progs/EAGLE-7.7.0/lbr/WS2812B.lbr"
 UsedLibrary="C:/Progs/EAGLE-7.7.0/lbr/advanced-test-technologies.lbr"
 UsedLibrary="C:/Progs/EAGLE-7.7.0/lbr/agilent-technologies.lbr"
 UsedLibrary="C:/Progs/EAGLE-7.7.0/lbr/allegro.lbr"
@@ -348,16 +351,13 @@ UsedLibrary="C:/Progs/EAGLE-7.7.0/lbr/xilinx-xc9.lbr"
 UsedLibrary="C:/Progs/EAGLE-7.7.0/lbr/xilinx-xcv.lbr"
 UsedLibrary="C:/Progs/EAGLE-7.7.0/lbr/zetex.lbr"
 UsedLibrary="C:/Progs/EAGLE-7.7.0/lbr/zilog.lbr"
-UsedLibrary="C:/Progs/EAGLE-7.7.0/lbr/WS2812B.lbr"
-UsedLibrary="C:/Progs/EAGLE-7.7.0/lbr/MCP9700T-E_TT.lbr"
 UsedLibrary="C:/Progs/EAGLE-7.7.0/lbr/seeed/Seeed-OPL-sensor.lbr"
-UsedLibrary="C:/Progs/EAGLE-7.7.0/lbr/BSS138.lbr"
 UsedLibrary="C:/Progs/EAGLE-7.7.0/lbr/seeed/Seeed-OPL-Connector.lbr"
 
 [Win_1]
 Type="Control Panel"
-Loc="-1943 547 -24 1683"
-State=1
+Loc="0 0 763 618"
+State=2
 Number=0
 
 [Desktop]
